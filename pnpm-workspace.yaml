@@ -8,7 +8,7 @@ catalog:
   classnames: ~2.5.1
   cross-env: ^10.0.0
   react: ^19.2.4
-  tailwindcss: ~4.1.17
+  tailwindcss: ~4.3.3
   typescript: 5.9.3
 
 onlyBuiltDependencies:
